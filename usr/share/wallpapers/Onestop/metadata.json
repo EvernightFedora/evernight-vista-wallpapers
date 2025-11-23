@@ -21,6 +21,7 @@
                 "Name[hu]": "EvernightFedora",
                 "Name[ia]": "EvernightFedora",
                 "Name[it]": "EvernightFedora",
+                "Name[ja]": "長夜月玩Fedora",
                 "Name[ka]": "EvernightFedora",
                 "Name[ko]": "EvernightFedora",
                 "Name[lt]": "EvernightFedora",
@@ -39,7 +40,7 @@
                 "Name[uk]": "EvernightFedora",
                 "Name[x-test]": "xxEvernightFedoraxx",
                 "Name[zh_CN]": "长夜月玩Fedora",
-                "Name[zh_TW]": "EvernightFedora"
+                "Name[zh_TW]": "長夜月玩Fedora"
             }
         ],
         "Id": "Onestop",
