@@ -43,16 +43,16 @@
                 "Name[zh_TW]": "長夜月玩Fedora"
             }
         ],
-        "Id": "Utopia",
+        "Id": "Nova",
         "License": "EULA",
-        "Name": "Utopia",
-        "Name[bg]": "Utopia",
-        "Name[da]": "Utopia",
-        "Name[el]": "Utopia",
-        "Name[en_GB]": "Utopia",
-        "Name[ia]": "Utopia",
-        "Name[x-test]": "xxUtopiaxx",
-        "Name[zh_CN]": "Utopia 乌托邦",
-        "Name[zh_TW]": "Utopia"
+        "Name": "Nova",
+        "Name[bg]": "Nova",
+        "Name[da]": "Nova",
+        "Name[el]": "Nova",
+        "Name[en_GB]": "Nova",
+        "Name[ia]": "Nova",
+        "Name[x-test]": "xxNovaxx",
+        "Name[zh_CN]": "Nova 新年",
+        "Name[zh_TW]": "Nova"
     }
 }
