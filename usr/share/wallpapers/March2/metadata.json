@@ -20,6 +20,7 @@
                 "Name[gl]": "EvernightFedora",
                 "Name[hu]": "EvernightFedora",
                 "Name[ia]": "EvernightFedora",
+                "Name[ja]": "長夜月玩Fedora",
                 "Name[it]": "EvernightFedora",
                 "Name[ka]": "EvernightFedora",
                 "Name[ko]": "EvernightFedora",
@@ -29,7 +30,6 @@
                 "Name[nn]": "EvernightFedora",
                 "Name[pl]": "EvernightFedora",
                 "Name[pt]": "EvernightFedora",
-                "Name[ja]": "長夜月玩Fedora",
                 "Name[pt_BR]": "EvernightFedora",
                 "Name[ro]": "EvernightFedora",
                 "Name[ru]": "EvernightFedora",
@@ -43,16 +43,16 @@
                 "Name[zh_TW]": "長夜月玩Fedora"
             }
         ],
-        "Id": "Nova",
+        "Id": "March2",
         "License": "EULA",
-        "Name": "Nova",
-        "Name[bg]": "Nova",
-        "Name[da]": "Nova",
-        "Name[el]": "Nova",
-        "Name[en_GB]": "Nova",
-        "Name[ia]": "Nova",
-        "Name[x-test]": "xxNovaxx",
-        "Name[zh_CN]": "Nova 新年",
-        "Name[zh_TW]": "Nova 新年"
+        "Name": "March Hunter",
+        "Name[bg]": "March Hunter",
+        "Name[da]": "March Hunter",
+        "Name[el]": "March Hunter",
+        "Name[en_GB]": "March Hunter",
+        "Name[ia]": "March Hunter",
+        "Name[x-test]": "xxMarch Hunterxx",
+        "Name[zh_CN]": "March 三月巡猎",
+        "Name[zh_TW]": "March 三月巡猎"
     }
 }

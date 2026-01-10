@@ -38,20 +38,20 @@
                 "Name[tr]": "Evernight Vista Team",
                 "Name[uk]": "Evernight Vista Team",
                 "Name[x-test]": "xxEvernight Vista Teamxx",
-                "Name[zh_CN]": "Evernight Vista Team",
-                "Name[zh_TW]": "Evernight Vista Team"
+                "Name[zh_CN]": "Evernight Vista 团队",
+                "Name[zh_TW]": "Evernight Vista 團隊"
             }
         ],
         "Id": "Evernight",
         "License": "EULA",
-        "Name": "Evernight Vista 43",
-        "Name[bg]": "Evernight Vista 43",
-        "Name[da]": "Evernight Vista 43",
-        "Name[el]": "Evernight Vista 43",
-        "Name[en_GB]": "Evernight Vista 43",
-        "Name[ia]": "Evernight Vista 43",
-        "Name[x-test]": "xxEvernight Vista 43xx",
-        "Name[zh_CN]": "Evernight Vista 43",
-        "Name[zh_TW]": "Evernight Vista 43"
+        "Name": "Evernight Vista 43 Basic",
+        "Name[bg]": "Evernight Vista 43 Basic",
+        "Name[da]": "Evernight Vista 43 Basic",
+        "Name[el]": "Evernight Vista 43 Basic",
+        "Name[en_GB]": "Evernight Vista 43 Basic",
+        "Name[ia]": "Evernight Vista 43 Basic",
+        "Name[x-test]": "xxEvernight Vista 43 Basicxx",
+        "Name[zh_CN]": "Evernight Vista 43 基本",
+        "Name[zh_TW]": "Evernight Vista 43 基本"
     }
 }
